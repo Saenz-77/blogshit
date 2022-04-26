@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: helvetica;
     background-color: rgb(200, 200, 200);
     color:rgb(255, 123, 0);
 }
@@ -34,5 +34,5 @@ body{
     padding: 5%;
     background-color: rgb(229, 237, 245);
 
-    font-family: Arial, sans-serif;
+    font-family: calibri;
 }
