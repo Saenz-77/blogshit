@@ -40,3 +40,9 @@ body{
 
     font-family: calibri;
 }
+
+#footer{
+    background-color: rgb(63, 32, 32);
+    color: aliceblue;
+    padding: 3%;
+}
